@@ -1,6 +1,6 @@
 
 
-# Mapty
+# Mapty App
 
 Mapty is a map application made with Vanilla JavaScript to store workouts like running and cycling.
 
